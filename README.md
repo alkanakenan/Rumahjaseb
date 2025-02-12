@@ -16,8 +16,6 @@ Setelah deploy, kamu perlu mengisi **Config Vars** di Heroku:
 | `API_ID` | API ID dari [my.telegram.org](https://my.telegram.org) |
 | `API_HASH` | API Hash dari [my.telegram.org](https://my.telegram.org) |
 | `SESSION` | String Session untuk userbot |
-| `REDIS_URI` | Redis Database (opsional) |
-| `REDIS_PASSWORD` | Password Redis (opsional) |
 
 ---
 
